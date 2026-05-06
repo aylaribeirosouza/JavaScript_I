@@ -1,6 +1,6 @@
 const precosLivros = [
     {
-    titulo: "O Segredo da Empregada",
+    titulo: "O paciente",
     preco: 56.99
     }, 
     {
