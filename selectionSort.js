@@ -1,5 +1,5 @@
 const livros = require('./listadeLivros');
-const maiorValor = require('./menorValor'); // Importa a função que ajustamos acima
+const maiorValor = require('./maiorValor'); // Importa a função que ajustamos acima
 
 for (let atual = 0; atual < livros.length; atual++) {
   let maior = maiorValor(livros, atual);
